@@ -4,7 +4,7 @@ module.exports = config = {
     // Replay some existing traffic logs to get an idea of what Hummingbird
     // looks like.  Change this to false when you're ready to actually use
     // Hummingbird in production.
-    "demo_mode": true,
+    "demo_mode": false,
 
     // Port where the dashboard will be shown.  Change it to false to disable
     // the dashboard. (you might do this if you were integrating
