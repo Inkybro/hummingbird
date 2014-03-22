@@ -24,5 +24,5 @@ module.exports = config = {
     // Interface to bind the UDP listener to. Use 127.0.0.1 to only allow
     // other apps on your machine to connect, or 0.0.0.0 to bind to all
     // interfaces and allow any machine to connect.
-    "udp_trackin_address" : "127.0.0.1"
+    "udp_trackin_address" : "0.0.0.0"
 }
